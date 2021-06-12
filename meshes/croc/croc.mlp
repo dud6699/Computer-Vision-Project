@@ -1,0 +1,69 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh idInFile="-1" visible="1" label="croc0.ply" filename="croc0.ply">
+   <MLMatrix44>
+0.899773 -0.017898 0.435991 11.1788 
+0.0595715 0.994842 -0.0821006 -2.41383 
+-0.432273 0.0998446 0.896198 -3.19947 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption solidColor="192 192 192 255" pointSize="3" pointColor="131 149 69 255" wireColor="64 64 64 255" boxColor="234 234 234 255" wireWidth="1">100001000000000000000100000001010000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" visible="1" label="croc2.ply" filename="croc2.ply">
+   <MLMatrix44>
+-0.311614 0.0362279 -0.949518 -12.9374 
+0.0359393 -0.998109 -0.0498765 18.7732 
+-0.949529 -0.0496672 0.309723 -12.312 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption solidColor="192 192 192 255" pointSize="3" pointColor="131 149 69 255" wireColor="64 64 64 255" boxColor="234 234 234 255" wireWidth="1">100001000000000000000100000001010000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" visible="1" label="croc1.ply" filename="croc1.ply">
+   <MLMatrix44>
+0.968735 -0.0434352 -0.244267 -6.83198 
+-0.0196884 -0.994909 0.0988315 20.5707 
+-0.247316 -0.0909323 -0.964659 -49.6285 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption solidColor="192 192 192 255" pointSize="3" pointColor="131 149 69 255" wireColor="64 64 64 255" boxColor="234 234 234 255" wireWidth="1">100001000000000000000100000001010000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" visible="1" label="croc3.ply" filename="croc3.ply">
+   <MLMatrix44>
+0.946922 -0.321422 0.00524202 3.51373 
+0.0133615 0.0556455 0.998361 21.7623 
+-0.321187 -0.9453 0.0569866 -12.5143 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption solidColor="192 192 192 255" pointSize="3" pointColor="131 149 69 255" wireColor="64 64 64 255" boxColor="234 234 234 255" wireWidth="1">100001000000000000000100000001010000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" visible="1" label="croc6.ply" filename="croc6.ply">
+   <MLMatrix44>
+-0.312264 -0.0154291 0.94987 28.1881 
+0.100807 0.993685 0.0492804 -0.702035 
+-0.944632 0.111142 -0.308737 -25.78 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption solidColor="192 192 192 255" pointSize="3" pointColor="131 149 69 255" wireColor="64 64 64 255" boxColor="234 234 234 255" wireWidth="1">100001000000000000000100000001010000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" visible="1" label="croc5.ply" filename="croc5.ply">
+   <MLMatrix44>
+-0.333168 -0.00974149 0.942817 24.9263 
+0.11472 0.992099 0.05079 -6.98326 
+-0.935862 0.125082 -0.329418 -26.2676 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption solidColor="192 192 192 255" pointSize="3" pointColor="131 149 69 255" wireColor="64 64 64 255" boxColor="234 234 234 255" wireWidth="1">100001000000000000000100000001010000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" visible="1" label="croc4.ply" filename="croc4.ply">
+   <MLMatrix44>
+0.912851 0.354857 -0.201937 -1.13218 
+-0.240055 0.0663974 -0.968486 -1.40432 
+-0.330266 0.93256 0.145796 -37.2153 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption solidColor="192 192 192 255" pointSize="3" pointColor="131 149 69 255" wireColor="64 64 64 255" boxColor="234 234 234 255" wireWidth="1">100001000000000000000100000001010100000010100000000100111010000111001001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
